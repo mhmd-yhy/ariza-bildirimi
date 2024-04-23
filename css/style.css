@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #222831 !important;
+}
+.navbar,
+.alert {
+  background-color: #00668c !important;
+}
+.bildirim {
+  background-color: #177a22 !important;
+}
+.parent {
+  background-color: #393e46;
+  max-width: 900px !important;
+}
+thead tr td {
+  color: #c1c1c1 !important;
+}
+.form-control:focus {
+  box-shadow: 0 0 0 0.15rem rgba(108, 108, 128, 0.25) !important;
+}
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background-color: #393e46;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #00668c;
+}
